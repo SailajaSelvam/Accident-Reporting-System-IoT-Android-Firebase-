@@ -1,6 +1,6 @@
 # Accident-Reporting-System-(IoT-Android-Firebase)
 
-proposes an IoT-based Accident Reporting System that uses sensors and wireless communication to automatically detect and report road accidents in real-time.
+Proposes an IoT-based Accident Reporting System that uses sensors and wireless communication to automatically detect and report road accidents in real-time.
 
 ## Features
 
@@ -33,6 +33,8 @@ proposes an IoT-based Accident Reporting System that uses sensors and wireless c
   ## Circuit Diagram
 
   ![Circuit Diagram](circuit.png)
+
+  ## For more details check out this documentation ![Documentation](documentation.pdf)
 
   ## Author
   ## Sailaja S
