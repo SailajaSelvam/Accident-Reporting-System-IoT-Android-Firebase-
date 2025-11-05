@@ -35,7 +35,7 @@ Proposes an IoT-based Accident Reporting System that uses sensors and wireless c
   ![Circuit Diagram](circuit.png)
 
 
-  For more details check out this documentation (documentation.pdf)
+  For more details check out this documentation [Documentation](documentation.pdf)
   
 
   ## Author
